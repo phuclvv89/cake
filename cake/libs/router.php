@@ -1070,11 +1070,7 @@ class Router {
 	function reverse($params) {
 		$pass = $params['pass'];
 		$named = $params['named'];
-		if (isset($params['url'])) {
-			$url = $params['url'];
-		} else {
-			$url = null;
-		}
+		$url = $params['url'];
 		unset(
 			$params['pass'], $params['named'], $params['paging'], $params['models'], $params['url'], $url['url'],
 			$params['autoRender'], $params['bare'], $params['requested'], $params['return']
