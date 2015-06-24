@@ -8,3 +8,7 @@ Ref link: http://www.krizna.com/centos/installing-apache2-mysql-server-php-cento
 
 // How to resolve issue related SSH key
 http://mediatemple.net/community/products/dv/204644740/using-ssh-keys-on-your-server
+
+// get error
+requires ext-dom * -> the requested PHP extension dom is missing from your system
+http://blue-goheimochi.hatenablog.com/entry/2013/07/24/composer%E3%81%A7PHPUnit%E3%81%8C%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84
